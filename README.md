@@ -23,7 +23,7 @@ npm start
 # Some of the demo screen shots of the app
 <!-- <div float="left"> -->
 <div align="center">
-  <div style="display: flex; justiy-content='space-between'">
+  <div style="display: flex; justiy-content:'space-between' ">
     <img src='assets/images/login.jpg' width=280/>      
     <img src='assets/images/demo_1.jpg' width=280/>
     <img src='assets/images/calender.jpg' width=280/>
