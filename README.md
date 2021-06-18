@@ -1,4 +1,4 @@
-# Task List made with ### React Native and Firebase
+# Task List made with ## React Native and Firebase
 
 This app provides email and password authentication 
 
@@ -11,12 +11,12 @@ npm install
 npm install expo-cli
 ```
 
-#Run the app
+## Run the app
 
 ```bash
 expo start 
 ```
-### Or
+## Or
 ```bash
 npm start
 ```
