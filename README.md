@@ -22,4 +22,4 @@ npm start
 ```
 # Some of the demo screen shots of the app
 
-<img src='assets/images/login.jpg' width=500/>
+<img src='assets/images/login.jpg' width=300/>
