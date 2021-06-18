@@ -24,8 +24,8 @@ npm start
 <!-- <div float="left"> -->
 <div align="center">
   <div style="display: flex; ">
-    <img src='assets/images/login.jpg' width=420/>      
-    <img src='assets/images/demo_1.jpg' width=420/>
-    <img src='assets/images/calender.jpg' width=420/>
+    <img src='assets/images/login.jpg' width=320 margin=30/>      
+    <img src='assets/images/demo_1.jpg' width=320 margin=30/>
+    <img src='assets/images/calender.jpg' width=320 margin=30/>
   </div>
 </div>
