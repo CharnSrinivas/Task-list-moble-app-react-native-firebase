@@ -20,3 +20,6 @@ expo start
 ```bash
 npm start
 ```
+# Some of the demo screen shots of the app
+
+<img src='assets/images/login.jpg' />
