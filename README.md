@@ -22,5 +22,6 @@ npm start
 ```
 # Some of the demo screen shots of the app
 
-<img src='assets/images/login.jpg' width=300/>
-<img src='assets/images/demo_1.jpg' width=300/>
+<img src='assets/images/login.jpg' width=280/>
+<img src='assets/images/demo_1.jpg' width=280/>
+<img src='assets/images/calender.jpg' width=280/>
